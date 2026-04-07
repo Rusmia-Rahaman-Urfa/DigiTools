@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "price": 29,
+    "description": "Generate high-quality articles and reports with our advanced AI writing assistant.",
+    "icon": "/assets/products/writing_2327400 1.png",
+    "category": "Writing",
+    "features": ["Unlimited Generations", "Plagiarism Check", "Multi-language"]
+  },
+  {
+    "id": 2,
+    "name": "Design Templates Pack",
+    "price": 49,
+    "description": "Over 500+ premium mobile and web UI kits to speed up your design workflow.",
+    "icon": "/assets/products/design-tool.png",
+    "category": "Design",
+    "features": ["Figma & Sketch", "Free Updates", "Commercial License"]
+  }
+]
