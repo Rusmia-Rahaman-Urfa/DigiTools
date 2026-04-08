@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 h-20 flex items-center justify-between">
         {/* Logo */}
         <div className="flex items-center gap-2">
-          <img src="/assets/package.png" alt="logo" className="w-8 h-8" />
+          <img src="/products/package.png" alt="logo" className="w-8 h-8" />
           <span className="text-2xl font-bold bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent">
             DigiTools
           </span>
@@ -25,7 +25,7 @@ const Navbar = () => {
         {/* Action Buttons */}
         <div className="flex items-center gap-4">
           <div className="relative cursor-pointer p-2 hover:bg-white/5 rounded-full transition-all">
-            <img src="/assets/shopping-cart.png" alt="cart" className="w-6 h-6" />
+            <img src="/products/shopping-cart.png" alt="cart" className="w-6 h-6" />
             {cart.length > 0 && (
               <span className="absolute -top-1 -right-1 bg-[#7C3AED] text-white text-[10px] font-bold w-5 h-5 flex items-center justify-center rounded-full border-2 border-[#0B132B]">
                 {cart.length}
