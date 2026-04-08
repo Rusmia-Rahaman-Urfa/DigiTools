@@ -1,8 +1,7 @@
+@import "tailwindcss"; 
+@plugin "daisyui";     
 
-@import "tailwindcss"; /* The v4 way to import tailwind */
-@plugin "daisyui";     /* The v4 way to include plugins */
-
-/* Optional: Add your custom branding colors */
+/* Add custom branding colors */
 @theme {
   --color-brand-navy: #0B132B;
   --color-brand-purple: #7C3AED;
