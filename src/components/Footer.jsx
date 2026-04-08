@@ -6,7 +6,7 @@ const Footer = () => {
         {/* Brand Column */}
         <div className="space-y-6">
           <div className="flex items-center gap-2">
-            <img src="/assets/package.png" alt="logo" className="w-8 h-8" />
+            <img src="/products/package.png" alt="logo" className="w-8 h-8" />
             <span className="text-2xl font-bold text-white tracking-widest uppercase">
               DigiTools
             </span>
