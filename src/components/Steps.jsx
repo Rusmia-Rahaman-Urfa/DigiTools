@@ -4,19 +4,19 @@ const Steps = () => {
       id: "01",
       title: "Create Account",
       desc: "Join our community of digital creators and professionals.",
-      icon: "/assets/user.png",
+      icon: "/products/user.png",
     },
     {
       id: "02",
       title: "Choose Tools",
       desc: "Select the perfect automation tools for your specific workflow.",
-      icon: "/assets/Play.png",
+      icon: "/products/Play.png",
     },
     {
       id: "03",
       title: "Scale Fast",
       desc: "Download your assets and start scaling your business immediately.",
-      icon: "/assets/rocket.png",
+      icon: "/products/rocket.png",
     },
   ];
 
