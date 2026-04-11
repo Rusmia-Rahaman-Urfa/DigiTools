@@ -20,6 +20,7 @@ const Navbar = () => {
           <a href="#" className="hover:text-white transition-colors">Features</a>
           <a href="#" className="hover:text-white transition-colors">Pricing</a>
           <a href="#" className="hover:text-white transition-colors">Testimonials</a>
+          <a href="#" className="hover:text-white transition-colors">FAQ</a>
         </div>
 
         {/* Action Buttons */}
