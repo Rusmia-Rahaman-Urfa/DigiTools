@@ -24,7 +24,7 @@ const Steps = () => {
     <section className="py-24 bg-[#0B132B]">
       <div className="max-w-7xl mx-auto px-4">
         <div className="text-center mb-16" data-aos="fade-up">
-          <h2 className="text-4xl font-bold mb-4">Get Started in 3 Steps</h2>
+          <h2 className="text-4xl font-bold mb-4 text-white">Get Started in 3 Steps</h2>
           <p className="text-gray-400">Start using digital premium tools in minutes, not hours</p>
         </div>
 
@@ -37,7 +37,7 @@ const Steps = () => {
                   {step.id}
                 </span>
               </div>
-              <h4 className="text-xl font-bold mb-3">{step.title}</h4>
+              <h4 className="text-xl font-bold mb-3 text-white">{step.title}</h4>
               <p className="text-gray-400 text-sm leading-relaxed px-6">{step.desc}</p>
             </div>
           ))}
