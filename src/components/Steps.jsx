@@ -25,7 +25,7 @@ const Steps = () => {
       <div className="max-w-7xl mx-auto px-4">
         <div className="text-center mb-16" data-aos="fade-up">
           <h2 className="text-4xl font-bold mb-4">Get Started in 3 Steps</h2>
-          <p className="text-gray-400">Your journey to a faster workflow begins here.</p>
+          <p className="text-gray-400">Start using digital premium tools in minutes, not hours</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
