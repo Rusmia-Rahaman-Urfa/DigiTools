@@ -8,7 +8,7 @@ const Banner = () => {
         {/* Left Content */}
         <div className="flex-1 text-center lg:text-left" data-aos="fade-right">
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/5 border border-white/10 text-[#7C3AED] text-xs font-bold mb-6 uppercase tracking-widest">
-            <img src="/assets/rocket.png" alt="rocket" className="w-4 h-4" />
+            <img src="/products/rocket.png" alt="rocket" className="w-4 h-4" />
             Launch Your Success
           </div>
           <h1 className="text-5xl lg:text-7xl font-bold text-white mb-6 leading-tight tracking-tighter">
@@ -25,7 +25,7 @@ const Banner = () => {
               Get Started Now
             </button>
             <button className="flex items-center gap-3 px-10 py-4 rounded-full border border-white/20 text-white font-bold hover:bg-white/5 transition-all">
-              <img src="/assets/Play.png" alt="play" className="w-5 h-5" />
+              <img src="/products/Play.png" alt="play" className="w-5 h-5" />
               Watch Demo
             </button>
           </div>
@@ -37,7 +37,7 @@ const Banner = () => {
             {/* Soft Glow behind the image */}
             <div className="absolute inset-0 bg-[#7C3AED]/20 blur-[100px] -z-10 group-hover:bg-[#7C3AED]/30 transition-all" />
             <img 
-              src="/assets/banner.png" 
+              src="/products/banner.png" 
               alt="banner" 
               className="w-full h-auto drop-shadow-[0_20px_50px_rgba(124,58,237,0.3)] group-hover:scale-105 transition-all duration-700" 
             />
